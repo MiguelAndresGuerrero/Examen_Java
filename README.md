@@ -12,6 +12,7 @@ Este proyecto es un examen diseñado para evaluar los conocimientos y habilidade
 - Lenguaje: Java
 - Base de datos: MySQL
 - MySQL Conector: Para la conexion a la base de datos desde el archivo Java
+- [Descargar Connector](./mysql-connector-j-9.1.0.jar)
 
 ## Instalación
 
